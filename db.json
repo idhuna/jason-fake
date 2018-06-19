@@ -4,4 +4,9 @@
         {"id":2,"name":"Adam","age":29},
         {"id":3,"name":"Sena","age":40}
     ]
+    "json":[
+        {"ID":1,"Firstname":"John","Lastname":"Las","Age":19},
+        {"ID":2,"Firstname":"Adam","Lastname":"Hin","Age":29},
+        {"ID":3,"Firstname":"Sena","Lastname":"Din","Age":40}
+    ]
 }
